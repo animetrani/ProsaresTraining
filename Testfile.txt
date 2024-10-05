@@ -1,1 +1,2 @@
 In this files I have made initialization of commit
+I am commeting from feature branch 
